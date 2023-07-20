@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+center{
+    font-family: 'VT323', monospace;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+#modal{
+    float: right;
+}
+.heading h3{
+    display: inline;
+}
+.status{
+    font-size: 23px;
+}
+.style{
+    font-size: 23px;
+}
+#restart{
+    font-size: 23px;
+}
+.modal-dialog{
+    width: 90%;
+}
+
+.modal-body{
+    font-size: 20px;
+    display: inline-block;
+    width: 90%;
+}
+.footer
+{
+    color: white;
+    background-color: #c80000;
+    line-height: 2;
+    margin: 0px;
+}
+.footer:hover{
+    background-color: #9a0a0a;
+}
+#footler{
+    color: white;
+    background-color: #c80000;
+    text-decoration: none;
+}
+#footler:hover{
+    color: white;
+    background-color: #9a0a0a;
+    text-decoration: none;
+}
